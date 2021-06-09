@@ -1,7 +1,7 @@
 userids = {
-[1693924568] = true, -- sho
-[186700251] = true, -- akky
-[242021854] = true -- akky
+[1693924568] = true,
+[186700251] = true,
+[242021854] = true
 }
 return userids
 -- These will be our whitelisted users
