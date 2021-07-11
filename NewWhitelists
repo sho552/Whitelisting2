@@ -1,6 +1,5 @@
 userids = {
-[1639291599] = true, -- zotancti
-[1625306577] = true -- saturngoose
+[273496] = true
 }
 return userids
 -- These will be our whitelisted users
